@@ -1,0 +1,7 @@
+[n1]
+  lemma = "eksempelord"
+  note  = "eksempelkommentar med tekst i markdown-format."
+ 
+[n2]
+  lemma = "eksempelord"
+  note  = "eksempelkommentar med tekst i markdown-format."
