@@ -27,11 +27,7 @@ project-layout/
 │       └── nn-n_example-text/
 │           └── nn-n_example-text.xml
 ├── docs/
-├── metadata/
-│   ├── contributors.md
-│   ├── funders.md
-│   ├── project.md
-│   └── works.md
-└── .gitignore
+├── .gitignore
+└── README.md
 ```
 
