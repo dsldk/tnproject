@@ -50,6 +50,7 @@ project-layout/
 │               └── nn-n_example-text.xml
 ├── docs/
 ├── .gitignore
+├── LICENSE
 └── README.md
 ```
 

@@ -1,5 +1,8 @@
 # [Projektnavn]
 
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+
 ## Om projektet
 
 Dette repositorium er hjemsted for Det Danske Sprog- og Litteraturselskabs
@@ -47,6 +50,10 @@ til projektet i den rækkefølge de skal stå. For eksempel:
 - Carlsbergfondet
 - Statens Kunstfond
 -->
+
+## Licens
+
+Data stilles til rådighed under **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)**.
 
 ## Kontakt
 
