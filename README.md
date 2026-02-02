@@ -66,5 +66,4 @@ at iagttage nogle regler. Filnavne er en blanding af
 
 ## Kontakt
 
-Spørgsmål til Tekstnets projektskabelon kan rettes til Thomas Hansen
-<mailto:th@dsl.dk>
+Spørgsmål til Tekstnets projektskabelon kan rettes til [Thomas Hansen](mailto:th@dsl.dk)
