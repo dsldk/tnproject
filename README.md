@@ -64,3 +64,7 @@ at iagttage nogle regler. Filnavne er en blanding af
   - underscore `_`, adskiller forfatterkode og værktitel
   - værktitlen `ditte-menneskebarn-1`, kort for _Ditte Menneskebarn_, 1. del
 
+## Kontakt
+
+Spørgsmål til Tekstnets projektskabelon kan rettes til Thomas Hansen
+<mailto:th@dsl.dk>
